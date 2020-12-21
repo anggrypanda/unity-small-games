@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/Flappy Rocket/[Ll]ibrary/
-/Flappy Rocket/[Tt]emp/
-/Flappy Rocket/[Oo]bj/
-/Flappy Rocket/[Bb]uild/
-/Flappy Rocket/[Bb]uilds/
-/Flappy Rocket/[Ll]ogs/
-/Flappy Rocket/[Mm]emoryCaptures/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
